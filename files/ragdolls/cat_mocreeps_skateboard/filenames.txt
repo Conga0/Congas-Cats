@@ -1,0 +1,8 @@
+mods/congas_cats/files/ragdolls/cat_mocreeps_skateboard/head.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_skateboard/body.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_skateboard/legs_1.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_skateboard/legs_2.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_skateboard/legs_3.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_skateboard/legs_4.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_skateboard/tail.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_skateboard/skateboard.png

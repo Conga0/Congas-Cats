@@ -1,0 +1,7 @@
+mods/congas_cats/files/ragdolls/cat_mocreeps_spoopy/head.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_spoopy/body.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_spoopy/legs_1.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_spoopy/legs_2.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_spoopy/legs_3.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_spoopy/legs_4.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_spoopy/tail.png

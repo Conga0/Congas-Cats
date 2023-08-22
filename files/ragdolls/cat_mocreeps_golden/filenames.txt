@@ -1,0 +1,7 @@
+mods/congas_cats/files/ragdolls/cat_mocreeps_golden/head.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_golden/body.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_golden/legs_1.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_golden/legs_2.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_golden/legs_3.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_golden/legs_4.png
+mods/congas_cats/files/ragdolls/cat_mocreeps_golden/tail.png

@@ -1,0 +1,8 @@
+	<Mod
+		name="Conga's Cats"
+		description="Adds kitty cats around your world. With assets from The One The Only Spoopy Boi and Sorako Hinoguchi"
+		tags="creatures,gameplay,funny,audio"
+		dont_upload_folders="FOLDER_TO_IGNORE1|FOLDER_TO_IGNORE2"
+		dont_upload_files="FILE_TO_IGNORE1|FILE_TO_IGNORE2"
+	> 
+	</Mod>

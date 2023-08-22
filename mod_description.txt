@@ -1,0 +1,20 @@
+Implements cute Cats at the start of each run.
+Might rarely be found around the world.
+Nothing more, nothing less.
+
+They are non-hostile beings which make cute sounds
+
+Recommended to be placed above More Creeps & Weirdos in the mod list.
+
+
+Credit:
+Spoopy - Created the fluffy cat sprites
+Hinoguchi Sorako - Voiced the cats
+
+
+
+Contains configurable settings.
+
+If you wish to support my work in a tangiable manner, you can donate here:
+https://ko-fi.com/congalyne
+I don't expect you to under any circumstances and appreciate you playing donated or not, thankyou for playing everyone
